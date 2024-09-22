@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Content Creator
 - 📫 Reach me www.linkedin.com/in/
 amretesh-mishra
-- ⚡ Fun fact: Writing Content for my fun
+- ⚡ Fun fact: Writing Content for my fun.
 
 <!---
 Amretesh10/Amretesh10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
