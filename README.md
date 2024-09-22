@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amretesh10
+- 👋 Hi, I’m Amretesh Mishra
 - 👀 I’m interested in Learning new skills.
 - 🌱 I’m currently learning JAVA,C++.
 - 💞️ I’m looking to collaborate on Content Creator
